@@ -1,0 +1,2 @@
+# Sakurazaka46_profile_greetingCard_download
+ 自動下載櫻坂46的成員公式照、Greeting卡片以及拍立得照片
